@@ -23,7 +23,7 @@ This repository contains a classic Snake game implemented in Java. The game is a
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/snake-game-java.git
+   git clone https://github.com/7yamuna/snake-game-java.git
    ```
 2. Navigate to the project directory:
    ```sh
